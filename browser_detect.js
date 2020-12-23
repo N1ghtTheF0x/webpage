@@ -21,7 +21,7 @@ function GetBrowser()
     var isEdge = !isIE && !!window.StyleMedia
 
     // Chrome 1 - 79
-    var isChrome = !!window.chrome && (!!window.chrome.webstore || !!window.chrome.runtime)
+    var isChrome = !!window.chrome && (!!window.chrome.app && !!window.chrome.csi && !!window.chrome.loadTimes)
 
     // Edge (based on chromium) detection
     var isEdgeChromium = isChrome && (navigator.userAgent.indexOf("Edg") != -1)
