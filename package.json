@@ -1,0 +1,12 @@
+{
+  "name": "eclipse-engine-web",
+  "version": "1.0.0",
+  "description": "Eclipse Engine Web Interface",
+  "author": "NightTheFox",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-loader": "^8.0.17",
+    "typescript": "^4.2.2",
+    "webpack-cli": "^4.5.0"
+  }
+}

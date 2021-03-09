@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "module": "es6",
+        "target": "es6",
+        "sourceMap": true,
+        "lib": ["DOM","ESNext"],
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true
+    }
+}
