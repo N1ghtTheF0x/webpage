@@ -4,3 +4,6 @@ node_modules
 package-lock.json
 someRandomTypescriptFile.ts
 src
+package.json
+tsconfig.json
+webpack.config.js
