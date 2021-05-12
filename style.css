@@ -18,3 +18,13 @@ a:hover
 {
     border: 1px solid white;
 }
+p
+{
+    font-size: large;
+    text-align: left;
+}
+h1
+{
+    font-size: larger;
+    text-align: left;
+}
